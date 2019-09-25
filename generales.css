@@ -81,7 +81,7 @@ h2 {
     justify-content:flex-start;
 }
 
-.proyecto {
+.proyecto1 {
     margin:auto;
     display:flex;
     justify-content:center;
@@ -90,13 +90,13 @@ h2 {
     flex-flow: row nowrap;
 }
 
-.proyecto a {
+.proyecto1 a {
     font-size:7vh;
 
 }
 
 }
-.proyecto img {
+.proyecto1 img {
     width: 30vh;
     height: 30vh;
 }
@@ -122,12 +122,12 @@ h2 {
     margin-left:3vw;
 }
 
-.proyecto div.calculadorajpg {
+.proyecto1 div.calculadorajpg {
     flex: 1 0 auto;
     align-self:flex-start;
 
 }
-.proyecto div.lista {
+.proyecto1 div.lista {
     flex: 5 0 auto;
     align-self:flex-end;
 }
